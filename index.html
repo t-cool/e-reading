@@ -1,0 +1,58 @@
+<html>
+	<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200italic,400,600,600italic,700">
+    <style>
+      * {font-family: 'Source Sans Pro', sans-serif;margin:1px}
+      body {padding: 0 50px;}
+      h3 {font-weight: normal;}
+      section {padding: 20px;}
+      .sub{
+        border-bottom: double;
+      }
+      span{
+        margin-top:10px;
+        margin-bottom:10px;
+      }
+      .obj{
+        border-bottom: 1px solid black;
+      }
+      .verb {
+        border: 2px solid red;
+        border-radius: 15px;
+        padding-right: 3px;
+        padding-left:3px ;
+        display: inline-block;
+      }
+      
+    </style>
+
+	</head>
+	<body>
+    <p style="color: grey;font-size: 20px">My Project ⑧　日本文化を紹介しよう</p>
+    <hr>
+
+    <button onclick="clickHint()">記号付け音読① 訳なし</button>
+    <div>
+      <h3 id="exe1"></h3>
+    </div>
+
+    <br>
+
+    <button onclick='clickHint("hint1")'>記号付け音読② 訳あり</button>
+    <div id="hint1">
+      <h3 id="exe2"></h3>
+    </div>
+
+    <br>
+
+    <button onclick='clickHint("hint2")'>記号付け音読② 日本語のみ</button>
+    <div id="hint2">
+      <h3 id="exe3"></h3>
+    </div>
+
+    <script src='libs/talkify.min.js'></script>
+    <script src='libs/typeit.min.js'></script>
+    <script src='src/main.js'></script>  
+</body>
+</html>
