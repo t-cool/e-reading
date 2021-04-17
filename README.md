@@ -1,6 +1,6 @@
-# MRM(Marking Reading Method)
+# Marking Method
 
-MRM(Marking Reading Method) は、記号を英文につける読解法です。
+Marking Method は、記号を英文につける読解法です。
 
 寺島メソッドやスラッシュリーディングなどの読解法をミックスさせて記号を体系化しています。
 
