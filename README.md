@@ -14,3 +14,11 @@ Marking Method は、記号を英文につける読解法です。
 | (　　　) | 形容詞句・節 |
 | <　　　> | 副詞句・節 |
 | 「A」[　]「B」 | 等位接続語 |
+
+## Demo
+
+[https://t-cool.github.io/m2](https://t-cool.github.io/m2)
+
+## ライセンス
+
+MIT
