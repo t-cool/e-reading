@@ -17,7 +17,7 @@ Marking Method は、記号を英文につける読解法です。
 
 ## Demo
 
-[https://t-cool.github.io/m2](https://t-cool.github.io/m2)
+[https://t-cool.github.io/marks](https://t-cool.github.io/marks)
 
 ## ライセンス
 
